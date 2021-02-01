@@ -29,7 +29,7 @@ If you want to build your own Docker image and create the Docker container from 
 
 ## Return Format
 
-Our annotation tool is expecting a the following JSON format for the predicted bounding boxes.
+Our annotation tool is expecting the following JSON format for the predicted bounding boxes.
 
 ````
 [
